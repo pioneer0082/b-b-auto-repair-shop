@@ -1,7 +1,7 @@
 import { Route, Routes, Navigate } from 'react-router-dom'
 import CustomerList from './pages/customers/CustomerList'
 import CustomerDetails from './pages/customers/CustomerDetails'
-import Layout from './components/Layout'
+import Layout from './components/layout/Navbar'
 import Dashboard from './pages/dashboard/Dashboard'
 
 function App() {
