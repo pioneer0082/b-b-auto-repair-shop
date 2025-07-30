@@ -1,6 +1,6 @@
 import { Route, Routes, Navigate } from 'react-router-dom'
 import CustomerList from './pages/customers/CustomerList'
-import CustomerDetails from './pages/customers/CustomerDetails'
+import CustomerDetails from './pages/customers/CustomerDetail'
 import Layout from './components/layout/Navbar'
 import Dashboard from './pages/dashboard/Dashboard'
 
